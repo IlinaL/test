@@ -1,7 +1,8 @@
 <h1>Installation</h1>
-<p>1. Rename or copy .env.example file to .env </p>
-<p>2. composer install or composer update </p>
-<p>3. Create a database and change to .env
+<p>1  git clone https://github.com/IlinaL/test.git</p>
+<p>2. Rename or copy .env.example file to .env </p>
+<p>3. composer install or composer update </p>
+<p>4. Create a database and change to .env
 <p>5. Generating a New Application Key</p><p>php artisan key:generate</p>
 <p>6. php artisan migrate</p>
 <p>7. php artisan db:seed
