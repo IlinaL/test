@@ -1,5 +1,5 @@
 <h1>Installation</h1>
-<p>1  git clone https://github.com/IlinaL/test.git</p>
+<p>1. git clone https://github.com/IlinaL/test.git</p>
 <p>2. Rename or copy .env.example file to .env </p>
 <p>3. composer install or composer update </p>
 <p>4. if you use MySQL in .env file :
