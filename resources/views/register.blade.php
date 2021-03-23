@@ -43,23 +43,23 @@
         <select name="user_type" id="forms" class="form-control">
             <!-- Front End Developer -->
             <optgroup label="Front End Developer"></optgroup>
-            <option value="angular">&nbsp;&nbsp;Angular</option>
-            <option value="angularJs">&nbsp;&nbsp;&nbsp;&nbsp;AngularJs</option>
-            <option value="angular 2">&nbsp;&nbsp;&nbsp;&nbsp;Angular 2</option>
-            <option value="react">&nbsp;&nbsp;React</option>
-            <option value="react native">&nbsp;&nbsp;&nbsp;&nbsp;React native</option>
-            <option value="vue">&nbsp;&nbsp;Vue</option>
+            <option value="angular">Angular</option>
+            <option value="angularJs">AngularJs</option>
+            <option value="angular 2">Angular 2</option>
+            <option value="react">React</option>
+            <option value="react native">React native</option>
+            <option value="vue">Vue</option>
 
             <!-- Back End Developer -->
             <optgroup label="Back End Developer"></optgroup>
-            <option value="php">&nbsp;&nbsp;PHP</option>
-            <option value="symfony">&nbsp;&nbsp;&nbsp;&nbsp;Symfony</option>
-            <option value="silex">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silex</option>
-            <option value="laravel">&nbsp;&nbsp;&nbsp;&nbsp;Laravel</option>
-            <option value="lumen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lumen</option>
-            <option value="nodeJs">&nbsp;&nbsp;NodeJs</option>
-            <option value="express">&nbsp;&nbsp;&nbsp;&nbsp;Express</option>
-            <option value="nestJS">&nbsp;&nbsp;&nbsp;&nbsp;NestJS</option>
+            <option value="php">PHP</option>
+            <option value="symfony">Symfony</option>
+            <option value="silex">Silex</option>
+            <option value="laravel">Laravel</option>
+            <option value="lumen">Lumen</option>
+            <option value="nodeJs">NodeJs</option>
+            <option value="express">Express</option>
+            <option value="nestJS">NestJS</option>
         </select>
     </div>
 
